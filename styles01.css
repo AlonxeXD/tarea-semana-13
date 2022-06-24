@@ -1,0 +1,13 @@
+
+body{
+    display: flex;
+    justify-content: space-between;
+    height: 70px;
+    background-color: rgb(255, 0, 0);
+    padding: 10px;
+}
+
+.logo img{
+    height: 50px;
+    margin-right: 10px;
+}
